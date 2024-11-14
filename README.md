@@ -25,12 +25,10 @@ A dynamic, interactive React-based calendar application for managing events with
 
 2. **Install dependencies**:
    ```bash
-   Copy code
    npm install
 
 3. **Start the development server**:
    ```bash
-   Copy code
    npm start
 
 The app will be available at http://localhost:5173.
